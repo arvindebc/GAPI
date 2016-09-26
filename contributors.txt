@@ -1,0 +1,6 @@
+Contributors for Graphql Server
+
+1. Rajnikant Sharma(rajnikant@ebctechnologies.com)
+2. Priya Sharma(priya@ebctechnologies.com)
+3. Jitendra(jitendera@ebctechnologies.com)
+4. Joy(joy@ebctechnologies.com)
